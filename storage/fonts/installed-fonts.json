@@ -1,0 +1,20 @@
+{
+    "open sans": {
+        "normal": "C:\\Users\\ACER\\Downloads\\pweb_updated\\pweb\\storage\\fonts\/open_sans_normal_58432f442db7592a77647319d9a050fa",
+        "600": "C:\\Users\\ACER\\Downloads\\pweb_updated\\pweb\\storage\\fonts\/open_sans_600_9cc423d04ae7ffc0bddf21f1b769e623",
+        "bold": "open_sans_bold_9b93feee637c3c387cc32cdb0344a7df"
+    },
+    "themify": {
+        "normal": "themify_normal_7318f6c630922831f93fc0be1a2fc632"
+    },
+    "font awesome\\ 5 brands": {
+        "normal": "font_awesome__5_brands_normal_4bfa9c2d5568c0f8f84de661fcf9e699"
+    },
+    "font awesome\\ 5 free": {
+        "normal": "C:\\Users\\ACER\\Downloads\\pweb_updated\\pweb\\storage\\fonts\/font_awesome__5_free_normal_762e3e14f2f69ddaa8eb212cecbd2630",
+        "900": "font_awesome__5_free_900_e92a65d7a34b974199d6f20f7e9bade9"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_08864302c2f67a5868b993d817f41459"
+    }
+}
